@@ -16,7 +16,7 @@ The Department of Computer Science (DCC) is offering four full-time permanent po
 
 
 
-https://www.uchile.cl/concursoAcademico/
+[https://www.uchile.cl/concursoAcademico/](https://www.uchile.cl/concursoAcademico/)
 
 
 
