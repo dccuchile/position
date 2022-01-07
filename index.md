@@ -41,7 +41,7 @@ The successful candidates are expected to complement the existing strengths of t
 
 - ​	move to Santiago, Chile (if currently living elsewhere),
 - ​	establish and lead their own research team,
-- ​	deliver innovative research at the highest international standard,
+- ​	deliver innovative research at the highest international standards,
 - ​	deliver high quality teaching,
 - ​	supervise undergraduate, master and PhD students,
 - ​	obtain competitive research funding from external funding bodies,
