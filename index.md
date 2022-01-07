@@ -16,7 +16,7 @@ The [Department of Computer Science (DCC)](https://dcc.uchile.cl) is offering fo
 
 
 
-https://www.uchile.cl/concursoAcademico/
+[https://www.uchile.cl/concursoAcademico/](https://www.uchile.cl/concursoAcademico/)
 
 
 
