@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dccuchile/position/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Full-time permanent positions at DCC University of Chile
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Closing: March 3, 2022
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**The Positions**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The [Department of Computer Science (DCC)](https://dcc.uchile.cl) is offering four full-time permanent positions to carry out research and teaching at both undergraduate and graduate level. As assistant professors in tenure-track positions, the candidates are expected to develop a strong and competitive research program. The call (in Spanish) can be found at the following URL:
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dccuchile/position/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+https://www.uchile.cl/concursoAcademico/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+**The Candidates**
+
+
+
+Candidates should be pursuing internationally recognized research in the following areas (one per position offered):
+
+
+
+1. ​	Theoretical Computer Science
+2. ​	Artificial Intelligence and/or Data Science & Engineering
+3. ​	Software Engineering
+4. ​	Networks and Security, or with lower preference, any other area in Computer Science
+
+
+
+The successful candidates are expected to complement the existing strengths of the Department and its current activities. The candidates must hold a Ph.D. degree. The candidates must have demonstrated excellence in research and scholarship within the field of interest.Successful candidates will be expected to:
+
+
+
+- ​	move to Santiago, Chile (if currently living elsewhere)
+- ​	establish and lead their own research team
+- ​	deliver innovative research at the highest international standard
+- ​	deliver high quality teaching
+- ​	supervise undergraduate, master and PhD students
+- ​	obtain competitive research funding from external funding bodies
+- ​	write and speak English fluently
+- ​	obtain a good command of Spanish within 1 year of appointment
+
+
+
+**The Department of Computer Science (DCC)**
+
+
+
+The DCC is the leading Computer Science Department in Chile, and one of the most prominent in Latin America. It pioneered the use of Unix and the adoption of the Internet in Chile. Today it has 20 full-time professors, 9 of which come from Argentina, Uruguay, France, Ireland, and Peru. They carry out research at the highest level, publishing about 100 articles per year in international conferences and journals. The department is responsible for teaching Computer Science, with about 500 undergraduate, 80 MSc and 40 PhD students majoring in Computer Science.
+
+
+
+Further information can be requested to Prof. Gonzalo Navarro ([gnavarro@dcc.uchile.cl](https://webmail.dcc.uchile.cl/src/compose.php?send_to=gnavarro@dcc.uchile.cl)).
+
+
+ 
